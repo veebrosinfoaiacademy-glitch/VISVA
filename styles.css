@@ -112,6 +112,7 @@ a {
   display: flex;
   align-items: center;
   flex: 0 0 auto;
+  min-width: 0;
 }
 
 .navbar .brand {
@@ -1225,8 +1226,9 @@ h3 {
   }
 
   .brand img {
-    height: 30px;
-    max-width: 150px;
+    width: 152px;
+    height: auto;
+    max-width: none;
   }
 
   .menu-toggle {
@@ -1355,8 +1357,9 @@ h3 {
   }
 
   .brand img {
-    height: 28px;
-    max-width: 138px;
+    width: 142px;
+    height: auto;
+    max-width: none;
   }
 
   .section,
@@ -1528,8 +1531,9 @@ h3 {
   }
 
   .brand img {
-    height: 26px;
-    max-width: 124px;
+    width: 132px;
+    height: auto;
+    max-width: none;
   }
 
   .menu-toggle {
