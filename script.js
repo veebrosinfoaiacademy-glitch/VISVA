@@ -53,7 +53,7 @@ const domains = [
   },
   {
     icon: "♡",
-    title: "Vishva for Health Sciences",
+    title: "Visva for Health Sciences",
     text: "Specialized solutions for health science education and institutions.",
   },
   {
